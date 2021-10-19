@@ -1,0 +1,14 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/pre-order",
+      "destination": "/"
+    },
+    {
+      "source": "/launch",
+      "destination": "/"
+    }
+  ]
+}
